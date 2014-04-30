@@ -1,0 +1,17 @@
+{
+  "name": "css-popover",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kaesetoast/css-popover",
+  "authors": [
+    "Philipp Nowinski <philipp@nowinski.de>"
+  ],
+  "description": "Popovers made with pure CSS",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
