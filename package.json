@@ -14,5 +14,11 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kaesetoast/css-popover/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-sass": "~0.7.3",
+    "grunt-autoprefixer": "~0.7.2",
+    "grunt-contrib-watch": "~0.6.1"
   }
 }
