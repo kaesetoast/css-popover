@@ -11,7 +11,8 @@ module.exports = function(grunt) {
                     sourcemap: true
                 },
                 files: {
-                    'dist/css-popover.css': 'src/css-popover.scss'
+                    'dist/css-popover.css': 'src/css-popover.scss',
+                    'dist/css-popover-theme.css': 'src/css-popover-theme.scss'
                 }
             }
         },
